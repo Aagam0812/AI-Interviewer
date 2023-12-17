@@ -11,9 +11,6 @@ Check out our deployed application here [AI-Interviewer](https://ai-interviewer-
 - *Speech Processing*: Accurate conversion with OPENAI Whisper.
 - *Interactive Feedback*: Lifelike audio responses using AWS Polly.
 
-## Visualization 📊
-Innovative feature for visualizing important keywords from resumes.
-
 ## How It Works 🔍
 - *Data Collection*: Managing structured and unstructured data.
 - *Feature Engineering*: Extracting features for model training.
